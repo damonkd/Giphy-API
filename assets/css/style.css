@@ -1,0 +1,69 @@
+body{
+    
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    color: black;
+    line-height: 1.6;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.animalDiv{
+  float: left;
+  padding: 20px;
+}
+
+#add-animal{
+  background-color: rgb(80, 180, 70);
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+    cursor: pointer;
+
+}
+
+.animalButton{
+  background-color: #008CBA;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+    cursor: pointer;
+  }
+
+  #add{
+    height: 47px;
+  }
+
+  #addAnimal{
+    float: left;
+    margin: 10px;
+    box-align: auto;
+  }
+  
+#image{
+  float: left;
+  
+  padding: 20px;
+  cursor: pointer;
+}
+
+ 
+
+  
+
+  
